@@ -11,7 +11,7 @@ export function Hero() {
           Marzan.
         </h1>
         <h2 className="text-3xl sm:text-4xl md:text-6xl font-bold text-muted-foreground mb-8 text-balance">
-          I build things for the web.
+          I make recipies to turn dry logistics data into green decisions.
         </h2>
         <p className="max-w-xl text-muted-foreground text-lg leading-relaxed mb-12">
           I enjoy making the bridge between logistics and sustainability to build smarter, 
