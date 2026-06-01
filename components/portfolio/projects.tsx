@@ -4,80 +4,79 @@ import { ExternalLink, Github, Folder } from "lucide-react"
 
 const featuredProjects = [
   {
-    title: "Spotify Profile",
+    title: "EcoProcure IQ",
     description:
-      "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+      "A sustainability-driven supplier selection tool that evaluates vendors using cost, lead time, delivery reliability, quality, transport distance, packaging impact, and CO₂ footprint.",
     image: "/images/project-1.jpg",
-    tech: ["React", "Styled Components", "Express", "Spotify API"],
+    tech: ["Sustainable Procurement", "SESG Analytics", "Supplier Risk Scoring"],
     github: "https://github.com",
-    external: "https://example.com",
+    external: "https://marzan.info",
   },
   {
-    title: "Build a Spotify Connected App",
+    title: "Lean Six Sigma Warehouse Waste Analysis",
     description:
-      "A comprehensive video course that walks through building a full-stack web app with the Spotify Web API. Learn how to create an OAuth-authenticated Node.js app with Express and a React frontend.",
+      "Applied DMAIC methodology to analyze warehouse process waste, identify root causes of delays and rework, and propose measurable improvements for operational efficiency.",
     image: "/images/project-2.jpg",
-    tech: ["React", "Express", "Spotify API", "Heroku"],
+    tech: ["Lean Six Sigma", "DMAIC", "Process Optimization", "Root Cause Analysis"],
     github: "https://github.com",
-    external: "https://example.com",
+    external: "https://marzan.info",
   },
   {
-    title: "Halcyon Theme",
+    title: "Sustainable SC Traceability",
     description:
-      "A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, and npm.",
+      "Built a practical logistics-tech project that tracks green hydrogen batches from production to certification, using supply chain data, carbon-intensity indicators, document verification, and dashboard reporting.",
     image: "/images/project-3.jpg",
-    tech: ["VS Code", "Sublime Text", "Atom", "iTerm2"],
+    tech: ["React", "MySQL", "IPFS", "Ethereum"],
     github: "https://github.com",
-    external: "https://example.com",
+    external: "https://marzan.info",
   },
 ]
 
 const otherProjects = [
   {
-    title: "Integrating Algolia Search",
+    title: "Carbon Emission Calculator",
     description:
-      "Building a custom search experience for a content site using Algolia&apos;s instantsearch.js.",
-    tech: ["Algolia", "JavaScript", "Sass"],
+      "Built a logistics emission analysis tool to compare transport modes, calculate CO₂ impact by shipment route, and support sustainable logistics planning through dashboard-based insights.",
+    tech: ["MySQL", "JavaScript", "Power Query"],
     github: "https://github.com",
-    external: "https://example.com",
+    external: "https://marzan.info",
   },
   {
-    title: "Time to Have More Fun",
+    title: "Green Network Design and Facility Location ",
     description:
-      "A single-page web app for helping people find fun activities near them using Ticketmaster&apos;s Discovery API.",
-    tech: ["React", "Ticketmaster API", "Leaflet"],
-    github: "https://github.com",
-  },
-  {
-    title: "Building a Headless CMS Blog",
-    description:
-      "Building a blog with a headless CMS and static site generator. Exploring different CMS options and deployment strategies.",
-    tech: ["Next.js", "Contentful", "Vercel"],
-    github: "https://github.com",
-    external: "https://example.com",
-  },
-  {
-    title: "OctoProfile",
-    description:
-      "A nicer look at your GitHub profile and repositories. Includes data visualization of your top languages, starred repos, and sort options.",
-    tech: ["React", "GitHub API", "Chart.js"],
-    github: "https://github.com",
-    external: "https://example.com",
-  },
-  {
-    title: "Google Keep Clone",
-    description:
-      "A simple Google Keep clone built with React and Firebase. Features note creation, editing, archiving, and real-time sync.",
-    tech: ["React", "Firebase", "Material UI"],
+      "Comparative analysis of which problems arise if network and facility location design are not green."],
     github: "https://github.com",
   },
   {
-    title: "Apple Music Embeddable Widget",
+    title: "Sustainability in maritime networks",
     description:
-      "Embeddable web player widget for Apple Music that works across platforms and can be customized to match any site&apos;s design.",
-    tech: ["MusicKit.js", "TypeScript", "SASS"],
+      "Case study conducted to determine the sustainability in maritime networks with implementation of wind-assisted ship propulsion technology.",
+    tech: ["Real-Time Simulation", "Python", "WASP"],
     github: "https://github.com",
-    external: "https://example.com",
+    external: "https://marzan.info",
+  },
+  {
+    title: "IoT based air pollution monitoring system",
+    description:
+      "Air pollution monitoring system for warehouses to be implemented using Internet of Things.",
+    tech: ["React", "GitHub API", "Microcontrollers"],
+    github: "https://github.com",
+    external: "https://marzan.info",
+  },
+  {
+    title: "Last-Mile Delivery Sustainability Optimizer",
+    description:
+      "A project comparing delivery route options based on distance, emissions, vehicle type, and delivery time.",
+    tech: ["KPI visuals", "Python", "Data Visualization"],
+    github: "https://github.com",
+  },
+  {
+    title: "Supplier Sustainability Scorecard",
+    description:
+      "A dashboard that ranks suppliers based on sustainability and operational performance.",
+    tech: ["CO₂ footprint", "ESG", "SAP MM"],
+    github: "https://github.com",
+    external: "https://marzan.info",
   },
 ]
 
