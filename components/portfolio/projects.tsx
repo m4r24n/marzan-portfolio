@@ -8,7 +8,7 @@ const featuredProjects = [
     description:
       "A sustainability-driven supplier selection tool that evaluates vendors using cost, lead time, delivery reliability, quality, transport distance, packaging impact, and CO₂ footprint.",
     image: "/images/project-1.jpg",
-    tech: ["Sustainable Procurement", "SESG Analytics", "Supplier Risk Scoring"],
+    tech: ["Sustainable Procurement", "ESG Analytics", "Supplier Risk Scoring"],
     github: "https://github.com",
     external: "https://marzan.info",
   },
@@ -44,7 +44,7 @@ const otherProjects = [
   {
     title: "Green Network Design and Facility Location ",
     description:
-      "Comparative analysis of which problems arise if network and facility location design are not green."],
+      "Comparative analysis of which problems arise if network and facility location design are not green.",
     github: "https://github.com",
   },
   {
