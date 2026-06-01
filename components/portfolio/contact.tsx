@@ -11,7 +11,7 @@ export function Contact() {
           want to say hi, I&apos;ll try my best to get back to you!
         </p>
         <Link
-          href="mailto:hello@example.com"
+          href="mailto:marzanul.islam@yahoo.com"
           className="inline-block rounded border border-primary px-8 py-5 text-primary hover:bg-primary/10 transition-all duration-300"
         >
           Say Hello
