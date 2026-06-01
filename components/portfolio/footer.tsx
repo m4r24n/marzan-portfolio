@@ -3,10 +3,10 @@ import { Github, Linkedin, Twitter, Instagram, Mail } from "lucide-react"
 
 const socialLinks = [
   { icon: Github, href: "https://github.com", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://linkedin.com/in/marzanul.islam", label: "LinkedIn" },
   { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
   { icon: Instagram, href: "https://instagram.com", label: "Instagram" },
-  { icon: Mail, href: "mailto:hello@example.com", label: "Email" },
+  { icon: Mail, href: "mailto:marzanul.islam@yahoo.com", label: "Email" },
 ]
 
 export function Footer() {
@@ -29,7 +29,7 @@ export function Footer() {
 
       <div className="hidden lg:flex fixed right-10 bottom-0 flex-col items-center gap-6">
         <Link
-          href="mailto:hello@example.com"
+          href="mailto:marzanul.islam@yahoo.com"
           className="text-muted-foreground hover:text-primary transition-colors font-mono text-xs [writing-mode:vertical-rl]"
         >
           hello@example.com
