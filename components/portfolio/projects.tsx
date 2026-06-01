@@ -45,6 +45,7 @@ const otherProjects = [
     title: "Green Network Design and Facility Location ",
     description:
       "Comparative analysis of which problems arise if network and facility location design are not green.",
+    tech: ["Network Design", "Facility Location", "Sustainability"],
     github: "https://github.com",
   },
   {
