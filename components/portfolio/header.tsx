@@ -21,7 +21,7 @@ export function Header() {
           href="/"
           className="text-xl font-bold text-primary hover:text-primary/80 transition-colors"
         >
-          AC
+          MI
         </Link>
 
         {/* Desktop Navigation */}
