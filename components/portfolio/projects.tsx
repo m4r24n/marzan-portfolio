@@ -8,7 +8,7 @@ const featuredProjects = [
     description:
       "A sustainability-driven supplier selection tool that evaluates vendors using cost, lead time, delivery reliability, quality, transport distance, packaging impact, and CO₂ footprint.",
     image: "/images/project-1.jpg",
-    tech: ["Sustainable Procurement", "ESG Analytics", "Supplier Risk Scoring"],
+    tech: ["Procurement", "ESG Analytics", "Supplier Risk Scoring"],
     github: "https://github.com",
     external: "https://marzan.info",
   },
@@ -17,7 +17,7 @@ const featuredProjects = [
     description:
       "Applied DMAIC methodology to analyze warehouse process waste, identify root causes of delays and rework, and propose measurable improvements for operational efficiency.",
     image: "/images/project-2.jpg",
-    tech: ["Lean Six Sigma", "DMAIC", "Process Optimization", "Root Cause Analysis"],
+    tech: ["Lean Six Sigma", "DMAIC", "Process Optimization", "RCA"],
     github: "https://github.com",
     external: "https://marzan.info",
   },
