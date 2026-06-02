@@ -31,7 +31,7 @@ const experiences = [
     title: "Project Organizer and Webmaster",
     date: "Jan 2016 — April 2018",
     description: [
-      "Collaborated with a small team of trainees to preapare and organize events for non-profit organization working to develop rural Bangladesh.",
+      "Collaborated with a small team of trainees to prepare and organize events for non-profit organization working to develop rural Bangladesh.",
       "Built and maintained company website using JavaScript and HTML/CSS.",
       "Trained interns on-field to navigate and understand various project tasks.",
       "Architected and implemented the front-end of web applications as well as designed project blueprints",
