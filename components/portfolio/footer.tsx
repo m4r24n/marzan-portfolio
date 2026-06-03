@@ -32,7 +32,7 @@ export function Footer() {
           href="mailto:marzanul.islam@yahoo.com"
           className="text-muted-foreground hover:text-primary transition-colors font-mono text-xs [writing-mode:vertical-rl]"
         >
-          hello@example.com
+          Contact me!
         </Link>
         <div className="w-px h-24 bg-muted-foreground" />
       </div>
