@@ -19,7 +19,7 @@ const featuredProjects = [
     image: "/images/project-2.jpg",
     tech: ["Lean Six Sigma", "DMAIC", "Process Optimization", "RCA"],
     github: "https://github.com",
-    external: "https://marzan.info",
+    external: "https://lss.marzan.info",
   },
   {
     title: "Sustainable SC Traceability",
