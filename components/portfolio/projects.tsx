@@ -10,7 +10,7 @@ const featuredProjects = [
     image: "/images/project-1.jpg",
     tech: ["Procurement", "ESG Analytics", "Supplier Risk Scoring"],
     github: "https://github.com",
-    external: "https://marzan.info",
+    external: "https://ecoprocure.marzan.info",
   },
   {
     title: "Lean Six Sigma Warehouse Waste Analysis",
@@ -28,7 +28,7 @@ const featuredProjects = [
     image: "/images/project-3.jpg",
     tech: ["React", "MySQL", "IPFS", "Ethereum"],
     github: "https://github.com",
-    external: "https://marzan.info",
+    external: "https://hydrogen.marzan.info",
   },
 ]
 
